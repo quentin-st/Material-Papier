@@ -1,0 +1,11 @@
+/**
+ * Material-Papier
+ */
+
+// Import bourbon (mixins)
+@import '../bower_components/bourbon/app/assets/stylesheets/bourbon';
+// Import colors
+@import '../bower_components/material-scss-colors/dist/material-colors';
+
+// Import main file
+@import 'papier';
