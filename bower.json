@@ -1,0 +1,14 @@
+{
+  "name": "material-papier",
+  "homepage": "https://github.com/chteuchteu/Material-Papier",
+  "authors": [
+    "Quentin Stoeckel <chteuchteu@gmail.com>"
+  ],
+  "description": "Yet another Material (S)CSS framework",
+  "main": "",
+  "keywords": [
+    "material",
+    "papier"
+  ],
+  "license": "GPL-2.0"
+}
